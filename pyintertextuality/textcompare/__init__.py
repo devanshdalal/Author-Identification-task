@@ -1,0 +1,1 @@
+from fingerprint_comparison_classes import FingerprintMatcher
