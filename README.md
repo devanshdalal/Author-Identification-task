@@ -32,5 +32,5 @@ TODO: Write history -->
 
 ## More Details
 ----------------
-
+Our model for the task is a text classifier based on logistic regression which includes n-grams, style markers and document finger-printing as features. Reuter_50_50 is the dataset used.
 
