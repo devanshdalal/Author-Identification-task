@@ -10,7 +10,7 @@ learner.py is the main file . run it to see the output.
 
 ## Requirements
 --------------
-python with common ML and NLP libraries.
+python with common ML and NLP libraries like Scikit-learn,Theano,Nltk etc.
 
 ## Contributing
 ----------------
@@ -32,4 +32,5 @@ TODO: Write history -->
 
 ## More Details
 ----------------
-Comming soon
+
+
