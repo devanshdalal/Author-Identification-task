@@ -22,14 +22,9 @@ learner.py is the main file . run it to see the output.
 
 TODO: Write history -->
 
-
-
-
-## Credits
+## More Details
 ----------------
-[Devansh Dalal](https://github.com/devanshdalal) <br>
-[Abhishek]() <br>
-
+coming soon
 
 ## Contributing
 ----------------
@@ -38,3 +33,9 @@ TODO: Write history -->
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
+
+
+## Credits
+----------------
+[Devansh Dalal](https://github.com/devanshdalal) <br>
+[Abhishek]() <br>
