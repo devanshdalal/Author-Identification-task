@@ -3,6 +3,7 @@
 ![Logo](https://cloud.githubusercontent.com/assets/5080310/13220998/186aac70-d99f-11e5-9527-6a8c97793f69.png)
 ---------------
 
+
 Authorship identification has been a very important and practical problem in Natural Language Processing. The problem is to identify the author of a document from a given list of possible authors. A large amount of work exists on this problem in literature. We develop ideas based on this work in order to build our own model for authorship identification. We also take a model from this work as a baseline for comparing the results. Our model for the task is a text classifier based on logistic regression which includes n-grams, style markers and document finger-printing as features. 
 
 
