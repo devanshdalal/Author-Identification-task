@@ -1,6 +1,6 @@
 # Author-Identification-from-text
 
-![Logo](https://github.com/devanshdalal/Author-Identification-task/blob/master/logo.png)
+![Logo](logo.png)
 ---------------
 
 
